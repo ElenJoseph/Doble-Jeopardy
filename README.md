@@ -4,7 +4,7 @@
 I will take "jQuery" for 1000. 
 
 ## Objective
-For this exercise, you will demonstrate your knowledge of jQuery by creating an interactive Game of Jeopardy from the starter files provided. 
+For this exercise, you will demonstrate your knowledge of jQuery by creating an interactive Game of Jeopardy from the starter files provided.  At a minimum, jQuery should be use in the retrieval of HTML elements using the [jQuery Method](https://api.jquery.com/jQuery/), the adding and manipulating of HTML using the [Manipulation Methods](https://api.jquery.com/category/manipulation/), and the adding of Event Listeners using the [on method](https://api.jquery.com/on/) or the [click method](https://api.jquery.com/click/).  
 
 ## Requirements
 The following requirements must be met in order to complete the assignment successfully: 
