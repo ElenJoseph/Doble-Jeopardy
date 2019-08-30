@@ -10,7 +10,7 @@ For this exercise, you will demonstrate your knowledge of jQuery by creating an 
 The following requirements must be met in order to complete the assignment successfully: 
 
 ### Step 1
-Download the [Jeopardy starter files](https://github.com/imdac/mtm6302-jeopardy/archive/master.zip). Inside the starter files will be `index.html`, `style.css` and `double-jeopardy.js`. **All the changes will be made to the `double-jeopardy.js` file.**
+Clone this repository from GitHub. Inside the starter files will be `index.html`, `style.css` and `double-jeopardy.js`. **All the changes will be made to the `double-jeopardy.js` file.**
 
 ### Step 2
 Add the jQuery library.
@@ -68,5 +68,18 @@ Clicking on the 'Show Answer' button should add the class `show` on the answer a
 ## Example
 An example video of Jeopardy can be found on [YouTube](https://youtu.be/z-lO9ET-fmc).
 
+## Rubric
+
+| Task | Points |
+| ---  | :---:  | 
+| Uses jQuery to retrieve elements | 1 |
+| Uses jQuery to add / manipulate HTML | 2 |
+| Uses jQuery for event handling  | 2 |
+| **Total** | **5** | 
+
 ## Submission
-Once completed, submit the JavaScript file with the name, *double-jeopardy.js*, to the **Double Jeopardy** assignment on Brightspace.
+When the assignment is completed, follow the steps below to submit for grading:
+
+1. Create a commit with the message "Completes the Double Jeopardy assignment"
+2. Push all commits to GitHub.
+3. Submit the URL to your GitHub repository to the **Double Jeopardy** assignment on BrightSpace.  
